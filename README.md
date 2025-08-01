@@ -3,6 +3,14 @@
 This project is a Natural Language Processing (NLP) tool developed during my internship. It is designed to process Indian legal documents and extract meaningful information. The tool performs Named Entity Recognition (NER) and Summarization using models from the [OpenNyai Project](https://github.com/OpenNyAI/Opennyai).
 
 ---
+## Features
+
+- Extracts legal entities such as statutes, judges, provisions, and case numbers.
+- Summarizes complex legal text into structured sections like *Facts*, *Analysis*, and *Decision*.
+- Simple and interactive Gradio-based UI.
+- Built using Python, SpaCy, and Hugging Face models.
+
+---
 
 ## 🔧 Installation
 
